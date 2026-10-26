@@ -1,0 +1,8 @@
+__pycache__/
+*.part
+*.log
+nohup.out
+out/*_stats.csv
+out_trash/
+out_gamma1.5/*_stats.csv
+out_alpaca_v4/*_stats.csv

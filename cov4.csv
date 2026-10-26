@@ -1,0 +1,16 @@
+agg,attack,defense,round,acc,asr
+coverage,band,median,1,0.8612,0.0561
+coverage,band,median,2,0.9140,0.1075
+coverage,band,median,3,0.9220,0.0841
+coverage,band,median,4,0.9243,0.1262
+coverage,band,median,5,0.9255,0.1192
+coverage,band,median,6,0.9300,0.0818
+coverage,band,median,7,0.9358,0.1098
+coverage,band,median,8,0.9255,0.1449
+coverage,band,median,9,0.9300,0.1121
+coverage,band,median,10,0.9323,0.1332
+coverage,band,median,11,0.9278,0.1893
+coverage,band,median,12,0.9289,0.1893
+coverage,band,median,13,0.9220,0.4883
+coverage,band,median,14,0.9266,0.6472
+coverage,band,median,15,0.9197,0.8528

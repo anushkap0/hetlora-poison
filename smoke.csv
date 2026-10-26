@@ -1,0 +1,13 @@
+agg,attack,defense,ranks,seed,round,acc,asr,caught
+covguard,band,none,"4:8,8:6,16:4,32:2",0,1,0.5950,0.5701,
+covguard,band,none,"4:8,8:6,16:4,32:2",0,2,0.6650,0.5654,
+covguard,band,none,"4:8,8:6,16:4,32:2",0,3,0.6675,0.5607,
+covguard,band_adapt,none,"4:8,8:6,16:4,32:2",0,1,0.5950,0.5701,
+covguard,band_adapt,none,"4:8,8:6,16:4,32:2",0,2,0.6650,0.5654,
+covguard,band_adapt,none,"4:8,8:6,16:4,32:2",0,3,0.6675,0.5607,
+horus,band,none,"4:8,8:6,16:4,32:2",0,1,0.5525,0.7383,0.00
+horus,band,none,"4:8,8:6,16:4,32:2",0,2,0.6025,0.7617,0.00
+horus,band,none,"4:8,8:6,16:4,32:2",0,3,0.6300,0.8178,0.00
+horus,band_adapt,none,"4:8,8:6,16:4,32:2",0,1,0.5025,0.7196,0.00
+horus,band_adapt,none,"4:8,8:6,16:4,32:2",0,2,0.5550,0.8084,0.00
+horus,band_adapt,none,"4:8,8:6,16:4,32:2",0,3,0.6425,0.7850,0.00
