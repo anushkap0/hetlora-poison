@@ -1,0 +1,10 @@
+                    ppl          loss       
+                   mean    std   mean    std
+agg      defense                            
+coverage median   5.510  0.040  1.706  0.007
+         none     5.487  0.049  1.702  0.009
+covguard none     3.729  0.061  1.316  0.016
+svd      median   3.655  0.066  1.296  0.018
+         none     3.654  0.067  1.296  0.018
+zeropad  median   3.656  0.067  1.296  0.018
+         none     3.671  0.065  1.300  0.018
