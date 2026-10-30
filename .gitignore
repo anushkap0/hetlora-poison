@@ -6,3 +6,9 @@ out/*_stats.csv
 out_trash/
 out_gamma1.5/*_stats.csv
 out_alpaca_v4/*_stats.csv
+*_stats.csv
+*.log
+nohup.out
+__pycache__/
+*.tar.gz
+*.zip
